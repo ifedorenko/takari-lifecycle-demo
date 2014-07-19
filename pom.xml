@@ -8,5 +8,6 @@
 
   <modules>
     <module>takari-compile-demo</module>
+    <module>takari-jar-demo</module>
   </modules>
 </project>
