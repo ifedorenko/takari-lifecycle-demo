@@ -11,7 +11,7 @@
   <packaging>takari-jar</packaging>
 
   <properties>
-    <takari-lifecycle.version>1.7.3</takari-lifecycle.version>
+    <takari-lifecycle.version>1.7.4</takari-lifecycle.version>
   </properties>
 
   <dependencies>
@@ -39,7 +39,6 @@
           <configuration>
             <!-- compile/testCompile -->
             <source>1.7</source>
-            <target>1.7</target>
 
             <!-- jar -->
             <sourceJar>true</sourceJar>

@@ -9,7 +9,7 @@
   <artifactId>takari-compile-demo</artifactId>
 
   <properties>
-    <takari-lifecycle.version>1.7.3</takari-lifecycle.version>
+    <takari-lifecycle.version>1.7.4</takari-lifecycle.version>
   </properties>
 
   <dependencies>
