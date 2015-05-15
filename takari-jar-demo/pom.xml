@@ -11,7 +11,7 @@
   <packaging>takari-jar</packaging>
 
   <properties>
-    <takari-lifecycle.version>1.7.4</takari-lifecycle.version>
+    <takari-lifecycle.version>1.11.4</takari-lifecycle.version>
   </properties>
 
   <dependencies>
